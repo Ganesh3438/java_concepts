@@ -2,7 +2,7 @@ package arraysTopic;
 
 import java.util.Scanner;
 
-public class Session4_TC01_Create_Matrix {
+public class Session4_TC01_Print_Matrix_RowWise {
 
 	/*
 	 * Take N and M from user and then N * M values. Create a matrix of size n*m,
